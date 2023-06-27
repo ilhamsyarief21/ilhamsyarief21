@@ -18,7 +18,8 @@
 - 📄 Know about my experiences Internship At POS INDONESIA
 
 - ⚡ Fun fact **I am very curious about new things**
-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
