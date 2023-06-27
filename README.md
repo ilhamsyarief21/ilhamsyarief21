@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ilhamsyarief21](https://github.com/ilhamsyarief21)
 
-- 💬 Ask me about **Food, HEHE**
+- 💬 Ask me about **Foods, HEHE**
 
 - 📫 How to reach me **ilhamsyarief21092002@gmail.com**
 
