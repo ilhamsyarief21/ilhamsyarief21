@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ilhamsyarief21092002@gmail.com**
 
-- 📄 Know about my experiences [Internship At POS INDONESIA](Internship At POS INDONESIA)
+- 📄 Know about my experiences Internship At POS INDONESIA
 
 - ⚡ Fun fact **I am very curious about new things**
 
