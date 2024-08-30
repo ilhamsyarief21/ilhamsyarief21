@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilham Syarief</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate mobile app developer & UI/UX Researher from Indonesia</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
